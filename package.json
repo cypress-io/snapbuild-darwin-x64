@@ -12,6 +12,5 @@
   ],
   "directories": {
     "bin": "bin"
-  },
-  "private": true
+  }
 }
