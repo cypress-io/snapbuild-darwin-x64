@@ -1,6 +1,6 @@
 {
   "name": "snapbuild-darwin-x64",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The macOS 64-bit binary for esbuild based snapshot bundler used by v8-snapshot-utils.",
   "repository": "https://github.com/thlorenz/v8-snapshot-utils",
   "license": "MIT",
